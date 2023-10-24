@@ -32,9 +32,16 @@ Milestones I want to achive:
 * Try Different Advanced CV Backbones.
 * Introduce Multi-Modal Fusion in Image Segmentation and Improve its IOU score.
 * A better way to embedded the Multi-Modal Information
-* With a fine-tuned best Segmentation Model
+* With a fine-tuned best Segmentation Model, I want use it as a backbone in an active-learning pipeline and introduce some unsupervised methods or ensemble methods to select frames which needs to be sampled.
 
 ---
+
+The Multi-Modal Information Categoray is shown below:
+
+<img src="https://github.com/HaotianXiangsti/EECS_6998_E11/blob/main/IMGS/Screenshot%202023-10-23%20222946.png">
+
+---
+
 Updated from **Oct. 23**
 
 I proposed a notebook in the weekend but I wrongly deleted it before pushing to the repo. But I can describe what I did in the weekend and rebuild it this week.
