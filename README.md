@@ -28,7 +28,11 @@ The Original Flowchart of the Paper:
 
 ---
 Milestones I want to achive:
-* 
+
+* Try Different Advanced CV Backbones.
+* Introduce Multi-Modal Fusion in Image Segmentation and Improve its IOU score.
+* A better way to embedded the Multi-Modal Information
+* With a fine-tuned best Segmentation Model
 
 ---
 Updated from **Oct. 23**
