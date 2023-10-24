@@ -24,7 +24,7 @@ The [dataset](https://drive.google.com/drive/folders/1JtOt-g6NpLXU9xHyKfy-oR-WTp
 
 The Original Flowchart of the Paper:
 
-<img src="https://haotianxiangsti.github.io/EECS_6998_E11/IMGS/ForestNet_fig1.png">
+<img src="https://github.com/HaotianXiangsti/EECS_6998_E11/blob/main/IMGS/ForestNet_fig1.png">
 
 ---
 Milestones I want to achive:
