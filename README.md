@@ -21,3 +21,8 @@ Then, I want to substitute the CNN backbone with SAM or just ViT to see if  it h
 Finally, I want to turn the model as the backbone for a active learning pipeline. I want to propose such a framework for people investigating drivers of deforestation in other country and can save their time and money in image annotation.
 
 The [dataset](https://drive.google.com/drive/folders/1JtOt-g6NpLXU9xHyKfy-oR-WTpEH3A5D?usp=sharing) can be found in my Google Drive.
+
+---
+Updated from **Oct. 23**
+
+I proposed a notebook in the weekend but I wrongly deleted it before pushing to the repo. But I can describe what I did in the weekend and rebuild it this week.
