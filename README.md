@@ -22,6 +22,10 @@ Finally, I want to turn the model as the backbone for a active learning pipeline
 
 The [dataset](https://drive.google.com/drive/folders/1JtOt-g6NpLXU9xHyKfy-oR-WTpEH3A5D?usp=sharing) can be found in my Google Drive.
 
+The Original Flowchart of the Paper:
+
+<img src="https://haotianxiangsti.github.io/EECS_6998_E11/IMGS/ForestNet_fig1.png">
+
 ---
 Milestones I want to achive:
 * 
