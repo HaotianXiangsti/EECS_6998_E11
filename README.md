@@ -26,3 +26,8 @@ The [dataset](https://drive.google.com/drive/folders/1JtOt-g6NpLXU9xHyKfy-oR-WTp
 Updated from **Oct. 23**
 
 I proposed a notebook in the weekend but I wrongly deleted it before pushing to the repo. But I can describe what I did in the weekend and rebuild it this week.
+
+* I build up a Dataloader to firstly load dataset.
+* My first idea is to use a pretrained CV backbone from HuggingFace. I tried DETR (End-to-End Object Detection with Transformers) first to extract features and upsample and do a 2 class segmentation.
+
+Bascily, my first 
