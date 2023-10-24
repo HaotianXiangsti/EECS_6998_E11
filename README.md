@@ -36,13 +36,17 @@ Milestones I want to achive:
 
 ---
 
-The Multi-Modal Information Categoray is shown below:
+**The Multi-Modal Information Categoray is shown below:**
 
 <img src="https://github.com/HaotianXiangsti/EECS_6998_E11/blob/main/IMGS/Screenshot%202023-10-23%20222946.png">
 
+**The Proposed Active Learning Pipeline is shown below:**
+
+<img src="https://github.com/HaotianXiangsti/EECS_6998_E11/blob/main/IMGS/Active%20Learning_ForestNet.drawio.png">
+
 ---
 
-Updated from **Oct. 23**
+**Updated from Oct. 23**
 
 I proposed a notebook in the weekend but I wrongly deleted it before pushing to the repo. But I can describe what I did in the weekend and rebuild it this week.
 
