@@ -23,11 +23,15 @@ Finally, I want to turn the model as the backbone for a active learning pipeline
 The [dataset](https://drive.google.com/drive/folders/1JtOt-g6NpLXU9xHyKfy-oR-WTpEH3A5D?usp=sharing) can be found in my Google Drive.
 
 ---
+Milestones I want to achive:
+* 
+
+---
 Updated from **Oct. 23**
 
 I proposed a notebook in the weekend but I wrongly deleted it before pushing to the repo. But I can describe what I did in the weekend and rebuild it this week.
 
-* Just Finished My PhD Interview and Accepted an Oral Offer
+* Just Finished My PhD Interview and Accepted an Oral Offer. Thus, I devote much more time to the project.
 * I build up a Dataloader to firstly load dataset.
 * My first idea is to use a pretrained CV backbone from HuggingFace. I tried DETR (End-to-End Object Detection with Transformers) first to extract features and upsampled them. Next do a 2 class segmentation. The unfine-tuned result is not good. I think is mainly because the DETR is originally used for Object Detection and it failed to segment correctly on a satellite image.
 
