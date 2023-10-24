@@ -31,4 +31,4 @@ I proposed a notebook in the weekend but I wrongly deleted it before pushing to 
 * I build up a Dataloader to firstly load dataset.
 * My first idea is to use a pretrained CV backbone from HuggingFace. I tried DETR (End-to-End Object Detection with Transformers) first to extract features and upsampled them. Next do a 2 class segmentation. The unfine-tuned 
 
-Bascily, my first 
+
