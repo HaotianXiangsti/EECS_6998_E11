@@ -1,6 +1,12 @@
 # EECS_6998_E11
 Repo for course project of EECS_6998_E11
 
+Currently A More Detailed and Comprehensive Cloud Drive Version can be find at https://drive.google.com/drive/folders/1lRZiazvJreX7Wa0dwjSKEV10RZZXxERV?usp=sharing
+
+It is a completed version. 
+
+Cause I encountered issues of pushing the whole dataset to the repo. And every others' push is lagged.
+
 Want to get a better result than [ForesterNet](https://stanfordmlgroup.github.io/projects/forestnet/) NeurIPS 2020 in prediciting drivers of a deforest situation
 
 The task is to investigate drivers of deforestation in Indonesia. The original task is an image segmentation task over Landsat 8 Satellite Images and a multi-class classification task based on the Image Segmentations.
